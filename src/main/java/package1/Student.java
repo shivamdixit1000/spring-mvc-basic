@@ -25,10 +25,5 @@ public class Student {
     }
 
 
-    public void hello()
-    {
-        System.out.println("Hello");
-    }
-    // i am that change
-
+    // this is new change
 }
