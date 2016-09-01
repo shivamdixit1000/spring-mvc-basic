@@ -8,7 +8,7 @@ public class Student {
     private String name;
 
 
-// rnadome comment
+   // this is the newly added comment
 
 
     public void setName(String name) {
